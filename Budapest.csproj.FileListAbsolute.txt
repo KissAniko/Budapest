@@ -1,0 +1,9 @@
+C:\Users\fanna\source\repos\Budapest\Budapest\bin\Debug\bp.csv
+C:\Users\fanna\source\repos\Budapest\Budapest\bin\Debug\Budapest.exe.config
+C:\Users\fanna\source\repos\Budapest\Budapest\bin\Debug\Budapest.exe
+C:\Users\fanna\source\repos\Budapest\Budapest\bin\Debug\Budapest.pdb
+C:\Users\fanna\source\repos\Budapest\Budapest\obj\Debug\Budapest.csproj.AssemblyReference.cache
+C:\Users\fanna\source\repos\Budapest\Budapest\obj\Debug\Budapest.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanna\source\repos\Budapest\Budapest\obj\Debug\Budapest.csproj.CoreCompileInputs.cache
+C:\Users\fanna\source\repos\Budapest\Budapest\obj\Debug\Budapest.exe
+C:\Users\fanna\source\repos\Budapest\Budapest\obj\Debug\Budapest.pdb
